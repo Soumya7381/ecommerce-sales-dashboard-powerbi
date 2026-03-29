@@ -81,10 +81,6 @@ Data preprocessing was done using Microsoft Excel.
 - Clear KPI tracking  
 - Business-focused insights  
 
----
-
-## 📸 Dashboard Preview
-![Dashboard Preview](./dashboard.png)
 
 ---
 
