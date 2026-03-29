@@ -90,4 +90,5 @@ This dashboard converts raw e-commerce data into meaningful insights, helping bu
 ---
 
 ## 📬 Contact
-Feel free to connect for feedback or collaboration!
+Feel free to connect for feedback or collaboration! 
+Mail id: rout06738@gmail.com
